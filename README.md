@@ -7,7 +7,7 @@ This project is a Stock Portfolio Management System developed using Python.It al
 - Display portfolio summary
 - User-friendly interface
 
-# Python Chatbot
+# Basic Chatbot
 A simple chatbot developed using Python that interacts with users using predefined responses.
 ## Features
 - Interactive conversation
